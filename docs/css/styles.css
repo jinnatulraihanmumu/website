@@ -240,7 +240,7 @@ body {
   color: navy;
 }
 .progress.communication .progress-left .progress-bar {
-  animation: loading-1 0.7s linear forwards 0.7s;
+  animation: loading-4 0.7s linear forwards 0.7s;
 }
 .progress.public-speaking .progress-left .progress-bar {
   animation: loading-3 0.7s linear forwards 0.7s;
