@@ -1,0 +1,34 @@
+.container {
+  overflow-x: hidden;
+}
+
+.side {
+  position: relative;
+  left: -277.5px;
+  transition-duration: 0.4s;
+}
+.active {
+  left: 0px;
+}
+
+.navbar-brand {
+  transition-duration: 0.4s;
+  left: 0px;
+}
+
+.fa-ellipsis-v {
+  color: navy;
+}
+
+.shift {
+  position: relative;
+  left: 250px;
+}
+
+.main-content {
+  padding-left: 0;
+}
+
+.cover-img {
+  padding-top: 50px;
+}
