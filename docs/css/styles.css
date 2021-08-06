@@ -133,6 +133,10 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
+.about-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
 .side-navbar {
   height: calc(100vh - 32px);
